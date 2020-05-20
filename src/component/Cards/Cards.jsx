@@ -3,7 +3,7 @@ import {Card,CardContent,Typography,Grid} from '@material-ui/core'
 import styles from "./Cards.module.css";
 import CountUp from 'react-countup';
 import cx from 'classnames';
-import ContentLoader, { Facebook } from 'react-content-loader'
+import ContentLoader from 'react-content-loader'
 
 
 const Cards= ({covidData:{confirmed,recovered,deaths,lastUpdate}})=>{
