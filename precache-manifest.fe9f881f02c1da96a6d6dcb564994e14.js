@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5602f66512a4fd3179e7d87361c67f61",
+    "revision": "6bc2423e17d1a05557849c6e14696c46",
     "url": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/index.html"
   },
   {
-    "revision": "af0ae625812e64692be0",
+    "revision": "e4cd9da89d778b0b7671",
     "url": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/css/main.41268c43.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/2.0e321de2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "af0ae625812e64692be0",
-    "url": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/main.a11d44ec.chunk.js"
+    "revision": "e4cd9da89d778b0b7671",
+    "url": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/main.0ea1561e.chunk.js"
   },
   {
     "revision": "359ba195d9340a091240",

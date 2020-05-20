@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/css/main.41268c43.chunk.css",
-    "main.js": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/main.a11d44ec.chunk.js",
-    "main.js.map": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/main.a11d44ec.chunk.js.map",
+    "main.js": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/main.0ea1561e.chunk.js",
+    "main.js.map": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/main.0ea1561e.chunk.js.map",
     "runtime-main.js": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/runtime-main.177f0152.js",
     "runtime-main.js.map": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/runtime-main.177f0152.js.map",
     "static/js/2.0e321de2.chunk.js": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/2.0e321de2.chunk.js",
     "static/js/2.0e321de2.chunk.js.map": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/2.0e321de2.chunk.js.map",
     "index.html": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/index.html",
-    "precache-manifest.90c8305731c2ce601b39ab3bc51ce033.js": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/precache-manifest.90c8305731c2ce601b39ab3bc51ce033.js",
+    "precache-manifest.fe9f881f02c1da96a6d6dcb564994e14.js": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/precache-manifest.fe9f881f02c1da96a6d6dcb564994e14.js",
     "service-worker.js": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/service-worker.js",
     "static/css/main.41268c43.chunk.css.map": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/css/main.41268c43.chunk.css.map",
     "static/js/2.0e321de2.chunk.js.LICENSE.txt": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/2.0e321de2.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.177f0152.js",
     "static/js/2.0e321de2.chunk.js",
     "static/css/main.41268c43.chunk.css",
-    "static/js/main.a11d44ec.chunk.js"
+    "static/js/main.0ea1561e.chunk.js"
   ]
 }
