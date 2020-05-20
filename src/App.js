@@ -26,8 +26,8 @@ class App extends Component {
   return (
     <div className="container">
       <Cards covidData={this.state.covid}/>
-      {/* <CountryPicker/> */}
-      {/* <Chart/> */}
+      <CountryPicker/>
+      <Chart/>
     </div>
   );
   }
