@@ -2,7 +2,7 @@ import axios from "axios";
 
 const url="https://covid19.mathdro.id/api";
 
-export const fetchData = async ()=>{
+ const fetchData = async ()=>{
     try{
         // const response = await axios.get(url);   // whole api object
         const {data} = await axios.get(url); 
@@ -18,6 +18,7 @@ export const fetchData = async ()=>{
     }catch (error){
 
     }
-} 
+}
 
-export 
+export default fetchData;
+
