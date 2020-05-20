@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/css/main.984e93cf.chunk.css",
-    "main.js": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/main.605005f5.chunk.js",
-    "main.js.map": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/main.605005f5.chunk.js.map",
+    "main.css": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/css/main.41268c43.chunk.css",
+    "main.js": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/main.a11d44ec.chunk.js",
+    "main.js.map": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/main.a11d44ec.chunk.js.map",
     "runtime-main.js": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/runtime-main.177f0152.js",
     "runtime-main.js.map": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/runtime-main.177f0152.js.map",
-    "static/js/2.5ec94446.chunk.js": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/2.5ec94446.chunk.js",
-    "static/js/2.5ec94446.chunk.js.map": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/2.5ec94446.chunk.js.map",
+    "static/js/2.0e321de2.chunk.js": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/2.0e321de2.chunk.js",
+    "static/js/2.0e321de2.chunk.js.map": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/2.0e321de2.chunk.js.map",
     "index.html": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/index.html",
-    "precache-manifest.4abdedd3c5c39070859b204cb12f43c5.js": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/precache-manifest.4abdedd3c5c39070859b204cb12f43c5.js",
+    "precache-manifest.90c8305731c2ce601b39ab3bc51ce033.js": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/precache-manifest.90c8305731c2ce601b39ab3bc51ce033.js",
     "service-worker.js": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/service-worker.js",
-    "static/css/main.984e93cf.chunk.css.map": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/css/main.984e93cf.chunk.css.map",
-    "static/js/2.5ec94446.chunk.js.LICENSE.txt": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/2.5ec94446.chunk.js.LICENSE.txt"
+    "static/css/main.41268c43.chunk.css.map": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/css/main.41268c43.chunk.css.map",
+    "static/js/2.0e321de2.chunk.js.LICENSE.txt": "/http//Deepanshu-Tiwari.github.io/Covid-19-Tracker-Application/static/js/2.0e321de2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.177f0152.js",
-    "static/js/2.5ec94446.chunk.js",
-    "static/css/main.984e93cf.chunk.css",
-    "static/js/main.605005f5.chunk.js"
+    "static/js/2.0e321de2.chunk.js",
+    "static/css/main.41268c43.chunk.css",
+    "static/js/main.a11d44ec.chunk.js"
   ]
 }
