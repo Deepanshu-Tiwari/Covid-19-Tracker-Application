@@ -26,7 +26,7 @@ const Chart=()=>{
                     data:dailyData(({confirmed}) => confirmed),
                     label:'Infected',
                     borderColor:'#3333ff',
-                    fill:true; 
+                    fill:true,
 
                 }, {}],
             }}
