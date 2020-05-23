@@ -19,3 +19,11 @@
     border-bottom: 10px solid red;
     opacity: 0.5;
 }
+
+
+
+@media (max-width:770px){
+    .card{
+        margin: 2% 0 !important;
+    }
+  }

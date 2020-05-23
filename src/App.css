@@ -8,3 +8,21 @@
   justify-content: center;
   flex-direction: column;
 }
+
+.image{
+  width: 370px;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+@media (max-width:770px){
+  .container{
+      margin: 0 10px;
+  }
+  .image{
+    width: 100%;
+  }
+}
+

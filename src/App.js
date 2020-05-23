@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import fatchData from "./api";
+import coronalogo from './Assets/image.png';
 // import Cards from "./component/Cards/Cards";
 // import Chart from "./component/Chart/Chart";
 // import CountryPicker from "./component/CountryPicker/CountryPicker";
@@ -34,6 +35,7 @@ class App extends Component {
   render(){
   return (
     <div className="container">
+      <img className="image" src={coronalogo} alt='COVID-19' />
       <Cards covidData={this.state.covid}/>
       <CountryPicker handleCountryChange={this.handleCountryChange}/>
       <Chart data={this.state.covid} country={this.state.country}/>
