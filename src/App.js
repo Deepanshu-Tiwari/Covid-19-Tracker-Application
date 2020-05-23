@@ -12,6 +12,7 @@ import {Cards,Chart,CountryPicker} from './component';
 class App extends Component {
   state={
     covid:{},
+    country:'',
   }
 
   async componentDidMount(){
@@ -20,13 +21,21 @@ class App extends Component {
     console.log(data);
   }
 
+  handleCountryChange= async(country)=>{
+    const fetchedData = await fatchData(country);
+    //fetch data 
+    //set the state
+    this.setState({covid:fetchedData , country:country});
+    // console.log(fetchedData);
+    // console.log(this.state.country);
+  }
 
 
   render(){
   return (
     <div className="container">
       <Cards covidData={this.state.covid}/>
-      <CountryPicker/>
+      <CountryPicker handleCountryChange={this.handleCountryChange}/>
       <Chart/>
     </div>
   );
