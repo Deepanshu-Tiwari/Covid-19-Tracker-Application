@@ -2,7 +2,7 @@ import axios from "axios";
 
 const url="https://covid19.mathdro.id/api";
 
- const fetchData = async ()=>{
+const fetchData = async ()=>{
     try{
         // const response = await axios.get(url);   // whole api object
         const {data} = await axios.get(url); 
@@ -16,11 +16,19 @@ const url="https://covid19.mathdro.id/api";
         return modifieData;
 
     }catch (error){
+    
+    }
+}
+export default fetchData; 
+
+export const fetchDailyData = async ()=>{
+    try{
+        const {data} = await axios.get(`${url}/daily`);     //daily summary path ke liye 
+        console.log(data);
+    }catch(error){
 
     }
 }
-
-export default fetchData;
 
 
 
