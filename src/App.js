@@ -26,8 +26,8 @@ class App extends Component {
     //fetch data 
     //set the state
     this.setState({covid:fetchedData , country:country});
-    // console.log(fetchedData);
-    // console.log(this.state.country);
+    console.log(fetchedData);
+    console.log(this.state.country);
   }
 
 
@@ -36,7 +36,7 @@ class App extends Component {
     <div className="container">
       <Cards covidData={this.state.covid}/>
       <CountryPicker handleCountryChange={this.handleCountryChange}/>
-      <Chart/>
+      <Chart data={this.state.covid} country={this.state.country}/>
     </div>
   );
   }
